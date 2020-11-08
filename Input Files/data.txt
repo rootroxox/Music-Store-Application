@@ -1,0 +1,3 @@
+20;15;Fear of the Dark;Iron Maiden;1992;10
+25;10;Dark Side of the moon;Almora;1987;10
+12;20;Sandik;Muslum Gurses;2009;10

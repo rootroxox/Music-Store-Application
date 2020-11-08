@@ -1,0 +1,18 @@
+Add id:12 name:"Sandik" singer:"Muslum Gurses" year:2009 count:5 price:20
+Add id:15 name:"Adimi Kalbine Yaz" singer:"Tarkan Tevetoglu" year:2010 count:10 price:20
+Add id:20 name:"Fear of the Dark" singer:"Iron Maiden" year:1992 count:20 price:15
+Add id:25 name:"Dark Side of the moon" singer:"Almora" year:1987 count:5 price:10
+Add id:40 name:"Dursun Zaman" singer:"MaNga" year:1997 count:15 price:15
+List
+Remove id:15
+List
+Edit id:15 singer:"Tarkan"
+Edit id:40 singer:"MANGA"
+Search "ark"
+Search "san"
+Sell id:20
+Sell id:25
+Sell id:40
+Sell id:25
+List
+Quit
